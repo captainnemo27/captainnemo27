@@ -2,9 +2,9 @@
 - 👀 I’m interested in Coding, Design video, i usually use adobe.
 - 🌱 I’m currently learning Data Engineering
 - 📫 Contact me at: 
--                  email: thangdao2701captain@gmail.com
--                  phone: 0394927609
--                  facebook: https://www.facebook.com/thangdao/
+-  email: thangdao2701captain@gmail.com
+-  phone: 0394927609
+-  facebook: https://www.facebook.com/thangdao/
 
 <!---
 captionnemo/captionnemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
