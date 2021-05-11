@@ -10,7 +10,7 @@
 captionnemo/captionnemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+<img src="https://drive.google.com/file/d/1j5JIZvfdrYu4hFA0Jkv5g0rEWZ3uqDgc/view?usp=sharing"/>
  
 ### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer. Welcome to my gh page! <br>
  
