@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="Untitled-1.png"/>
  
-### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer. Welcome to my gh page! <br>
+### Hi there 👋, I'm ThangDaoVan. I'm a data engineer and design data. Welcome to my gh page! <br>
  
-Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
+Resume:  [my facebook direct for me](https://www.instagram.com/thawngs.dao/) (PDF download)
  
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
