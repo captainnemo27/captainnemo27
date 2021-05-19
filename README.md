@@ -22,8 +22,8 @@ Resume:  [my instagram direct for me](https://www.instagram.com/thawngs.dao/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
  
-🌱 *Currently Learning*: Big data, HiveQL , Pig , Apache Spark , Mapreduce Models<br>
-
+🌱 *Currently Learning*: Big data, HiveQL , Apache Pig , Apache Spark , Mapreduce Models<br>
+I am learn about DataWarehouse , Big Data Analyst and Data Mining <br>
  
 😄 Pronouns: She/Her/Hers <br>
 ⚡ Fun facts:<br>
