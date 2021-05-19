@@ -1,5 +1,6 @@
+- In the future, i want to do anything no one cannt do, try better than mine of yesterday. Give some performances to the world.
 - 👋 Hi, I’m @captionnemo, my Name is: Dao Van Thang
-- 👀 I’m interested in Coding, Design video, i usually use adobe.
+- 👀 I’m interested in Coding,Work about data, Design video, Take photo.
 - 🌱 I’m currently learning Data Engineering - Fresher
 - 📫 Contact me at: 
 -  email: thangdao2701captain@gmail.com
