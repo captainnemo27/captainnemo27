@@ -24,8 +24,8 @@ Resume:  [my instagram direct for me](https://www.instagram.com/thawngs.dao/)
  
 🌱 *Currently Learning*: Big data, HiveQL , Apache Pig , Apache Spark , Mapreduce Models<br>
 😄 I have learn about DataWarehouse , Big Data Analyst and Data Mining <br>
- 
-😄 Pronouns: She/Her/Hers <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time means a lot to me because, you see, I, too, am also a learner and am often lost in the joy of forever developing and simplifying. If you love life, don’t waste time, for time is what life is made up of. <br>
+😄 Pronouns: Him <br>
 ⚡ Fun facts:<br>
 
  
