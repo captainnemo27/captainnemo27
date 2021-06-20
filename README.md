@@ -17,11 +17,7 @@ You can click the Preview link to take a look at your changes.
  
 Resume:  [my instagram direct for me](https://www.instagram.com/thawngs.dao/) 
  
-🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://careerkarma.com/blog/javascript-closure/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
+My Cv: [Dao Van Thang - Data engineer - Intern]( https://github.com/captionnemo/captionnemo/blob/876c17511922f26eecab902ed9e3738673bcc5e3/Data-Engineer_Dao-Van-Thang_Intern.pdf)
  
 🌱 *Currently Learning*: Big data, HiveQL , Apache Pig , Apache Spark , Mapreduce Models<br>
 😄 I have learn about DataWarehouse , Big Data Analyst and Data Mining <br>
