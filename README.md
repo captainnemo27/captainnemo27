@@ -1,3 +1,4 @@
+# Dao Van Thang 
 - In the future, i want to do anything no one cannt do, try better than mine of yesterday. Give some performances to the world.
 - 👋 Hi, I’m @captionnemo, my Name is: Dao Van Thang
 - 👀 I’m interested in Coding,Work about data, Design video, Take photo.
@@ -13,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="Untitled-1.png"/>
  
-### Hi there 👋, I'm ThangDaoVan. I'm a data engineer and design data. Welcome to my gh page! <br>
+### Hi there 👋, I'm ThangDaoVan. I'm a data engineer and designer. Welcome to my Git! <br>
  
 Resume:  [my instagram direct for me](https://www.instagram.com/thawngs.dao/) 
  
