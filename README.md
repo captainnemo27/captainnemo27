@@ -7,7 +7,7 @@ My English in communication is pretty good
 - 👀 I’m interested in Coding,Work about data, Design video, Take photo.
 myPhoto:  [my instagram direct for me](https://www.instagram.com/thawngs.dao/) 
  
-myCv: [Dao Van Thang - Data engineer - Intern]( https://github.com/captionnemo/captionnemo/blob/876c17511922f26eecab902ed9e3738673bcc5e3/Data-Engineer_Dao-Van-Thang_Intern.pdf)
+myCv: [Dao Van Thang - Data engineer - Intern]( https://github.com/captionnemo/captionnemo/blob/b791d8c25ffe75b580d40d27a55c72cca5088f57/Data-Engineer_Dao-Van-Thang_Intern.pdf)
  
 🌱 *Currently Learning*: Big data, HiveQL , Apache Pig , Apache Spark , Mapreduce Models<br>
 😄 I have learn about DataWarehouse , Big Data Analyst and Data Mining <br>
