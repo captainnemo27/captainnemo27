@@ -9,11 +9,6 @@ myPhoto:  [my instagram direct for me](https://www.instagram.com/thawngs.dao/)
  
 myCv: [Dao Van Thang - Data engineer - Intern]( https://github.com/captionnemo/captionnemo/blob/b791d8c25ffe75b580d40d27a55c72cca5088f57/Data-Engineer_Dao-Van-Thang_Intern.pdf)
  
-🌱 *Currently Learning*: Big data, HiveQL , Apache Pig , Apache Spark , Mapreduce Models<br>
-😄 I have learn about DataWarehouse , Big Data Analyst and Data Mining <br>
-
-😄 Pronouns: Him <br>
-⚡ Fun facts:<br>
 
 ## 📫 Contact me at: 
 -  email: thangdao2701captain@gmail.com
@@ -25,9 +20,6 @@ captionnemo/captionnemo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="Untitled-1.png"/>
- 
-### Hi there 👋, I'm ThangDaoVan. I'm a data engineer and designer. Welcome to my Git! <br>
- 
 
  
 <!--
