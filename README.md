@@ -14,6 +14,7 @@ myCv: [Dao Van Thang - Data engineer - Intern]( https://github.com/captionnemo/c
 -  email: thangdao2701captain@gmail.com
 -  phone: 0394927609
 -  facebook: https://www.facebook.com/thangdao/
+ 
  &nbsp;&nbsp;&nbsp; Time means a lot to me because, you see, I, too, am also a learner and am often lost in the joy of forever developing and simplifying. If you love life, don’t waste time, for time is what life is made up of. <br>
 <!---
 captionnemo/captionnemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
