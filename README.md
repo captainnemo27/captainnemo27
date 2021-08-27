@@ -1,9 +1,8 @@
-# Dao Van Thang 
-## ***About me***
-* I am a sociable person and can work hard to absorb new knowledge.
-* I am confident in my ability to teamwork, handle situations as well as high pressure resistance.
+# 👋 @captionnemo, Thang Dao Van :airplane:
+## ***About me*** :smile::smile::smile:
+* :sunglasses: I am a sociable person and can work hard to absorb new knowledge.I am confident in my ability to teamwork, handle situations as well as high pressure resistance.
 My English in communication is pretty good
-* 👋 @captionnemo, my Name is: Dao Van Thang
+
 * 👀 I’m interested in Coding,Work about data, Design video, Take photo.
 myPhoto:  [my instagram direct for me](https://www.instagram.com/thawngs.dao/) 
  
