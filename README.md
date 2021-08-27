@@ -20,7 +20,7 @@ myCv: [Dao Van Thang - Data engineer - Intern]( https://github.com/captionnemo/c
 captionnemo/captionnemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="Untitled-1.png"/>
+<img src="IMG_0134.jpg"/>
 
  
 <!--
