@@ -5,7 +5,7 @@ My English in communication is pretty good
 
 * 👀 I’m interested in Coding,Work about data, Design video, Take photo.
  
-### My Cv: [Dao Van Thang - Data engineer - Intern]( https://github.com/captionnemo/captionnemo/blob/b791d8c25ffe75b580d40d27a55c72cca5088f57/Data-Engineer_Dao-Van-Thang_Intern.pdf)
+### My Cv: [Dao Van Thang - Data engineer - Fresher]( https://github.com/captionnemo/captionnemo/blob/b791d8c25ffe75b580d40d27a55c72cca5088f57/Data-Engineer_Dao-Van-Thang_Intern.pdf)
  
 
 ## 📫 ***Contact me at:*** 
