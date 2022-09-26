@@ -1,9 +1,9 @@
-# 👋 @captionnemo, Thang Dao Van :airplane:
+# 👋 @captainnemo27, Thang Dao Van :airplane:
 ## ***About me*** :smile::smile::smile:
 * :sunglasses: I am a sociable person and can work hard to absorb new knowledge.I am confident in my ability to teamwork, handle situations as well as high pressure resistance.
 My English in communication is pretty good
 
-* 👀 I’m interested in Coding,Work about data, Design video, Take photo.
+* 👀 I’m interested in Coding,Work about data, data solution Take photo.
  
 ### My Cv: [Dao Van Thang - Data engineer ]( https://www.topcv.vn/xem-cv/AQQEUFZSVwIFBwYHBgAMW1EGXVVRBglWA1VfAAa342)
  
